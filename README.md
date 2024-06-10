@@ -2,12 +2,12 @@
 <img width="128" src="https://github.com/omnius-labs/axus-daemon-rs/blob/main/docs/logo.png?raw=true" alt="Axus logo">
 </p>
 
-<h1 align="center">Axus - Omnius File Exchanger (Daemon) (Work in Progress)</h1>
+<h1 align="center">Axus - Omnius File Exchanger (Desktop app) (Work in Progress)</h1>
 
 [![test](https://github.com/omnius-labs/axus-ui-cs/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/omnius-labs/axus-ui-cs/actions/workflows/test.yml)
 [![chat](https://badges.gitter.im/omnius-labs.svg)](https://app.gitter.im/#/room/#omnius-labs:gitter.im)
 
-Axus is an peer-to-peer (P2P) file-sharing service, written in Rust, designed to facilitate secure and efficient data exchange.
+Axus is a peer-to-peer (P2P) file-sharing service, written in Rust, designed to facilitate secure and efficient data exchange.
 
 ## Features
 
