@@ -15,12 +15,6 @@ Axus is a peer-to-peer (P2P) file-sharing service, written in Rust, designed to 
 - **File Search and Publishing**: Files can be searched and published with protection provided by a Web of Trust system, ensuring security and integrity.
 - **Bulletin Board Functionality**: Provides a platform within the network for users to safely exchange and share information.
 
-## Documentation
-
-- [Requirements](./docs/requirements/index.adoc)
-- [Specifications](./docs/specifications/index.adoc)
-- [FAQ](./docs/faq.md)
-
 ## Links
 
 - Official Documentation: https://docs.omnius-labs.com/
